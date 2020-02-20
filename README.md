@@ -1,2 +1,2 @@
 # Bitmap_Manipulator
-Created: September 2018
+Created September 2018:
